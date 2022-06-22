@@ -1,7 +1,6 @@
 import os
 import keyboard 
 import subprocess
-import signal
 import time
 
 while(True):
